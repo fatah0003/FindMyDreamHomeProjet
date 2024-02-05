@@ -3,7 +3,6 @@
     src: url(./font/BarlowSemiCondensed-Light.ttf);
 }
 body {
-    
     display: flex;
     flex-direction: column;
     margin-left: 40px;
@@ -277,7 +276,7 @@ footer {
 
 }
 
-.head-one {
+.footer-one, .footer-two, .footer-three {
     display: flex;
     justify-content: space-around;
     flex-direction: column;
@@ -285,7 +284,7 @@ footer {
 }
 
 
-.headfour{
+.footerfour{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
