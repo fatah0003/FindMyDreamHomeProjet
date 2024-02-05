@@ -4,7 +4,7 @@
         margin: 0;
     }
 
-    /* HEDEAR STYLE */
+    /* HEADER STYLE */
     header {
         width: 430px;
         height: 60px;
@@ -32,6 +32,7 @@
         display: flex;
         flex-direction: column;
     }
+    
 
     /* GRID STYLE */
     .sectiontwo {
